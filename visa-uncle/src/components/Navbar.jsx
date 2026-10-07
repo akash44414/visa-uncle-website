@@ -20,6 +20,7 @@ const Navbar = () => {
   const navLinks = [
     { name: 'Home', path: '/' },
     { name: 'About Us', path: '/about' },
+    { name: 'E-Visa', path: '/e-visa' },
     { name: 'USA Visa', path: '/usa-visa' },
     { name: 'UK Visa', path: '/uk-visa' },
     { name: 'Schengen Visa', path: '/schengen-visa' },
