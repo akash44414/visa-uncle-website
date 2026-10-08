@@ -44,7 +44,7 @@ const About = () => {
               We understand that obtaining a visa can be a stressful part of planning international travel. Our goal is to alleviate that stress by providing a clear, structured, and supportive service environment. We pride ourselves on offering honest assessments and reliable guidance.
             </p>
             <div className="bg-white/10 p-6 rounded-lg text-left inline-block">
-              <h4 className="font-semibold text-xl mb-2">Contact Our Office</h4>
+              <h4 className="font-semibold text-xl mb-2">For More information Contact Us</h4>
               <p className="text-blue-100 mb-1">Danish</p>
               <p className="text-blue-100 mb-3">+91 9319946602</p>
               <p className="text-blue-100 text-sm">
